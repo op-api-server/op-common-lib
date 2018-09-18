@@ -2,5 +2,5 @@
 
 > OP Common Library
 
-> Apache module (with APR)
+> API server module library (with APR)
 
